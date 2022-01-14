@@ -1,9 +1,9 @@
 ## Hi there, I'm Raj! 👋
 
-<main>
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=RajNykDhulapkar&show_icons=true&theme=radical" />
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajNykDhulapkar&layout=compact&theme=radical" />
-</main>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <h2>Programming Languages:</h2>
 <p> 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
